@@ -1,5 +1,6 @@
 ---
 title: "About"
 ---
-
-Melody Liu
+## About Me
+My name is **Melody Liu**, and I am graduating from *W.H.Morden*.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
